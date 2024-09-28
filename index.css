@@ -1,0 +1,715 @@
+
+
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+#main-logo {
+    /* border: 2px solid; */
+    height:5em;
+    width:5em;
+    position: absolute;
+    top: 7%;
+    left: 40%;
+}
+
+
+
+
+#A {
+    height: 698.44px;
+    width: 1349px;
+}
+
+#a {
+    height: 39.88px;
+    width: 1349px;
+}
+
+#S1 {
+    height: 600.44px;
+    width: 1349px;
+    display: flex;
+}
+
+#ss1, #ss2, #ss3, #ss4 {
+    height: 526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+}
+
+
+#shop {
+    text-align: center;
+}
+
+#infuluser {
+    height: 39.88px;
+    width: 1349px;
+    background-color: white;
+    text-align: center;
+    color: black;
+    display: block;
+}
+#infuluser h2{
+    text-align: center;
+}
+#h2h{
+    text-align: center;
+}
+
+#influnserbal {
+    text-align: center;
+    display: block;
+}
+
+
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+#main-logo {
+    height: 5em;
+    width: 5em;
+    position: absolute;
+    top: 7%;
+    left: 40%;
+}
+
+#nav {
+    background-color: #f8f8f8;
+    padding: 10px;
+}
+
+#sub-nav {
+    height: 30px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#sub-nav1 {
+    height: 200px;
+}
+
+#demo1 ol {
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    position: absolute;
+    left: 2%;
+    top: 10%;
+}
+
+#demo1 ol li {
+    height: 40px;
+    width: 60px;
+}
+
+#demo2 {
+    position: absolute;
+    left: 24%;
+    top: 25%;
+}
+
+#demo3 {
+    position: absolute;
+    left: 85%;
+    top: 10%;
+}
+
+#div4 {
+    height: 115.64px;
+    width: 100%; /* Use percentage for responsiveness */
+    padding: 32px 50px;
+}
+
+#p2 {
+    text-align: center;
+}
+
+.nav {
+    height: 64px;
+    width: 100%; /* Use percentage for responsiveness */
+}
+
+img {
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+}
+
+
+
+
+
+
+/* Additional Styles */
+.product {
+    margin: 10px;
+    text-align: center;
+    width: 200px; /* Default width */
+}
+
+.product img {
+    width: 100%;
+    height: auto; /* Maintain aspect ratio */
+}
+
+
+#sub-nav{
+    /* border: 2px solid; */
+    height: 30px;
+    text-align: center;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#sub-nav1{
+    /* border: 5px solid; */
+    height: 200px;
+}
+#demo1 ol{
+    /* border: 2px solid; */
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    position: absolute;
+    left: 2%;
+    top: 10%;
+}
+#demo1 ol li{
+    height: 40px;
+    width: 60px;
+}
+#sub-nav1 svg{
+    width: 60px;
+    height: 30px;
+    fill: none;
+}
+#demo2{
+    /* border: 2px solid; */
+    position:absolute;
+    left: 24%;
+    top: 25%;
+}
+#demo2 ol{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width:50em;
+    list-style: none;
+
+}
+#demo3{
+    /* border: 2px solid; */
+    position: absolute;
+    left: 85%;
+    top: 10%;
+}
+#demo3 ol{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 200px;
+    list-style: none;
+}
+#sub-nav1 p{
+    height:5em;
+    width:5em;
+    position: absolute;
+    top: 32%;
+    left: 40%;
+    font-size: 60px;
+}
+
+#div4{
+    height: 115.64px;
+    width: 1349px;
+    padding: 32px*50px;
+
+}
+#p2{
+    text-align: center;
+}
+.nav{
+    height: 64px;
+    width: 1349px;
+}
+#left{
+    float: right;
+}
+#rigth{
+    float: left;
+}
+img{
+    width: 100%;
+    /* height: 758.81px; */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<section01 number  for saree >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>. */
+
+#A{
+    height: 550.44px;
+    width: 1349px;
+}
+#a{
+    height: 39.88px;
+    width: 1349px;
+    /* background-color: red; */
+}
+#S1{
+    height: 500.44PX;
+    width:1349PX;
+    /* border: 2px solid yellow; */
+    display: flex
+
+}
+#ss1{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+#ss2{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+#ss3{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+#ss4{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+
+
+
+
+
+
+/* section2 for kurta>>>>>>>>>>>>> */
+
+
+#B{
+    height: 600.44px;
+    width: 1349px;
+}
+#b{
+    height: 39.88px;
+    width: 1349px;
+    /* background-color: red; */
+}
+#S1{
+    height: 600.44PX;
+    width:1349PX;
+    /* border: 2px solid yellow; */
+    display: flex
+
+}
+#ss1{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+#ss2{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+#ss3{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+#ss4{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+
+
+
+
+
+
+/* lenhnga>>>>>>>>>>>>>>>>>>>>> */
+
+#C{
+    height: 600.44px;
+    width: 1349px;
+}
+#c{
+    height: 39.88px;
+    width: 1349px;
+    /* background-color: red; */
+    text-align: center;
+    text-align: inherit;
+}
+#shop{
+    text-align: center;
+    
+}
+#S1{
+    height: 600.44PX;
+    width:1349PX;
+    /* border: 2px solid yellow; */
+    display: flex
+
+}
+#ss1{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+#ss2{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+#ss3{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+#ss4{
+    height:526.58px;
+    width: 351.72px;
+    border-radius: 5px;
+    margin: 20px;
+
+}
+
+
+    
+
+/* mix>>>>>>>>>>>>>>>>>>>>> */
+
+
+#D{
+    height: 550.44px;
+    width: 1349px;
+}
+#d{
+    height: 39.88px;
+    width: 1349px;
+    background-color:white;
+}
+#S14{
+    height: 500.44PX;
+    width:1349PX;
+    /* border: 2px solid yellow; */
+    display: flex
+
+}
+#ss14{
+    height:526.58px;
+    width: 351.72px;
+    /* border-radius: 5px; */
+    /* margin: 20px; */
+
+}
+#ss24{
+    height:526.58px;
+    width: 351.72px;
+    /* border-radius: 5px; */
+    /* margin: 20px; */
+
+}
+#ss34{
+    height:300.58px;
+    width: 351.72px;
+    /* border-radius: 5px; */
+    /* margin: 20px; */
+
+}
+#ss44{
+    height:526.58px;
+    width: 351.72px;
+    /* border-radius: 5px; */
+    /* margin: 20px; */
+
+}
+
+#infuluser{
+    height: 39.88px;
+    width: 1349px;
+    background-color:white;
+    text-align: center;
+    color:black;
+    display:flex
+}
+
+
+
+
+
+      
+      
+      
+ #h22{
+    text-align: center;
+    display: flex;
+    inherits: initial;
+}
+
+
+@
+
+
+#sareeA{
+    height:698.44px ;
+    width:1349px ;
+    
+}
+h2{
+    float: left;
+    
+}
+button{
+    float: right;
+}
+#sec02{
+    display: flex;
+}
+#beforesaree{
+    height: 39.88px;
+    width: 1349px;
+    background-color:white;
+    display: inline-flex
+    color:black;
+
+}
+
+h2{
+    float: left;
+}
+button{
+    float: right;
+}
+
+
+
+
+
+/* <<<<<<<<<<<<<<<<<<<<<<footer>>>>>>>>>>>>>>>>>>>>> */
+    hr{
+    height: 2px solid black;
+    width: 1349px;
+}
+footer{
+    height: 484.39px;
+    width: 1349px;
+    
+    padding: 0px 50px;
+    display: flex;
+}
+#footer1
+{
+    height: 452.39px;
+    width: 320.025px;
+    margin: 0px 0px 32px;
+    padding: 0px 16px;
+}
+#footer2
+{
+    height: 452.39px;
+    width: 320.025px;
+    margin: 0px 0px 32px;
+    padding: 0px 16px;
+}
+#footer3
+{
+    height: 452.39px;
+    width: 320.025px;
+    margin: 0px 0px 32px;
+    padding: 0px 16px;
+}
+#footer4
+{
+    height: 452.39px;
+    width: 320.025px;
+    margin: 0px 0px 32px;
+    padding: 0px 16px;
+}
+
+ body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+#nav {
+    background-color: #f8f8f8;
+    padding: 10px;
+}
+
+section {
+    text-align: center;
+}
+
+.responsive-img {
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+
+.product img {
+    width: 100%;
+    height: auto;
+} 
+
+
+
+
+
+#nav {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #f8f8f8;
+}
+
+#sub-nav, #sub-nav1 {
+    width: 100%;
+    text-align: center;
+    padding: 10px;
+}
+
+#main-logo img {
+    max-width: 100%;
+    height: auto;
+}
+
+/* Media Queries */
+@media (min-width: 768px) {
+    #nav {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    #sub-nav, #sub-nav1 {
+        text-align: left;
+        padding: 20px;
+    }
+
+    #main-logo {
+        margin: 0 20px;
+    }
+
+    #demo1, #demo2, #demo3 {
+        display: flex;
+        justify-content: space-around;
+        width: 100%;
+    }
+
+    #demo1 ol, #demo2 ol, #demo3 ol {
+        list-style-type: none;
+        padding: 0;
+        margin: 0;
+        display: flex;
+        gap: 15px;
+    }
+
+    #demo2 li {
+        font-weight: bold;
+    }
+}
+
+@media (min-width: 1024px) {
+    #nav {
+        padding: 20px 50px;
+    }
+
+    #sub-nav1 {
+        flex-grow: 1;
+        display: flex;
+        justify-content: space-between;
+    }
+
+    #demo2 li {
+        margin: 0 10px;
+    }
+}
+
+/* Adjust section styles */
+section {
+    width: 100%;
+    text-align: center;
+}
+
+section img {
+    max-width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
